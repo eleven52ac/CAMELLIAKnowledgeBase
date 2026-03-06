@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips/25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？.md",
+                "file": "Tips/26. MapStruct 映射框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？"
+              "title": "26. MapStruct 映射框架"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？.md",
+                "file": "Tips/26. MapStruct 映射框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？ 的大纲"
+              "title": "26. MapStruct 映射框架 的大纲"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "Tips/18. Commit Message 规范.md",
     "Tips/25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？.md",
+    "Tips/26. MapStruct 映射框架.md",
+    "Tips/18. Commit Message 规范.md",
     "消息中间件/RabbitMQ/2. SpringAMQP.md",
     "消息中间件/RabbitMQ/1. 开始RabbitMQ.md",
     "多线程/ReentrantLock锁.md",
@@ -223,7 +224,6 @@
     "Tips/21. 契约优先的模块解耦设计.md",
     "Tips/20. 端到端加密.md",
     "Tips/19. Payment Intent Pattern（支付意图模式）.md",
-    "Redis实战篇.md",
     "知识数据库.base",
     "Pasted image 20260210112912.png",
     "未命名.canvas",
