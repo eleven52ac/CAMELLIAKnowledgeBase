@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tips/26. MapStruct 映射框架.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb4e281f3160b2e",
+  "active": "cc25823a6534fcec",
   "lastOpenFiles": [
     "Tips/25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？.md",
     "Tips/26. MapStruct 映射框架.md",

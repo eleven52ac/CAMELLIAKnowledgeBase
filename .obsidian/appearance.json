@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "baseFontSizeAction": false,
   "accentColor": "",
   "theme": "system",
@@ -7,7 +7,7 @@
   "enabledCssSnippets": [
     "image-local"
   ],
-  "interfaceFontFamily": "Bodoni 72 Smallcaps",
-  "textFontFamily": "Bodoni 72 Smallcaps",
-  "monospaceFontFamily": "Bodoni 72 Smallcaps"
+  "interfaceFontFamily": "Georgia,华文中宋",
+  "textFontFamily": "Georgia,华文中宋",
+  "monospaceFontFamily": "Consolas"
 }

@@ -1,0 +1,26 @@
+/* 只改变字体，不改变任何排版 */
+
+/* 正文 */
+.markdown-reading-view,
+.markdown-source-view.mod-cm6 {
+  font-family: Georgia, "Source Han Serif SC", "Noto Serif CJK SC", serif;
+}
+
+/* 标题 */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+.HyperMD-header {
+  font-family: Georgia, "Source Han Serif SC", "Noto Serif CJK SC", serif;
+}
+
+/* 代码 */
+code,
+pre,
+.cm-inline-code,
+.HyperMD-codeblock {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+}
