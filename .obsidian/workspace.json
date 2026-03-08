@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "消息中间件/RabbitMQ/5. 发布&订阅模型.md",
+                "file": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 发布&订阅模型"
+              "title": "6. Fanout Exchange 模型"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "消息中间件/RabbitMQ/5. 发布&订阅模型.md",
+                "file": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5. 发布&订阅模型 的大纲"
+              "title": "6. Fanout Exchange 模型 的大纲"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "消息中间件/RabbitMQ/4. 工作消息队列.md",
     "消息中间件/RabbitMQ/5. 发布&订阅模型.md",
+    "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
+    "消息中间件/RabbitMQ/4. 工作消息队列.md",
     "消息中间件/RabbitMQ/3. 基本消息队列.md",
     "消息中间件/RabbitMQ/2. Spring AMQP.md",
     "消息中间件/RabbitMQ/1. 开始RabbitMQ.md",
@@ -221,7 +222,6 @@
     "Tips/11. MySQL日期函数.md",
     "Tips/10. EXISTS子查询中的存在性判断.md",
     "Tips/9. GROUP_CONCAT函数.md",
-    "Tips/8. choose标签.md",
     "消息中间件/RabbitMQ",
     "消息中间件",
     "知识数据库.base",
