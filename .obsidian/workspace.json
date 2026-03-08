@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "消息中间件/Kafka/3. Spring Kafka 实战.md",
-                "mode": "preview",
+                "file": "消息中间件/Kafka/6. Kafka 底层原理.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Spring Kafka 实战"
+              "title": "6. Kafka 底层原理"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "消息中间件/Kafka/3. Spring Kafka 实战.md",
+                "file": "消息中间件/Kafka/6. Kafka 底层原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. Spring Kafka 实战 的大纲"
+              "title": "6. Kafka 底层原理 的大纲"
             }
           },
           {
@@ -181,9 +181,12 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
+    "消息中间件/Kafka/5. kafka高级特性.md",
+    "消息中间件/Kafka/1. 初识 Kafka.md",
     "消息中间件/Kafka/2. Kafka 核心架构.md",
     "消息中间件/Kafka/3. Spring Kafka 实战.md",
-    "消息中间件/Kafka/1. 初识 Kafka.md",
+    "消息中间件/Kafka/4. 可靠性保证.md",
+    "消息中间件/Kafka/6. Kafka 底层原理.md",
     "消息中间件/RabbitMQ/9. 消息转换器.md",
     "消息中间件/Kafka",
     "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
@@ -206,9 +209,6 @@
     "Tips/22. 如何在事务中切换数据源.md",
     "Tips/21. 契约优先的模块解耦设计.md",
     "Tips/20. 端到端加密.md",
-    "Tips/19. Payment Intent Pattern（支付意图模式）.md",
-    "Tips/18. Commit Message 规范.md",
-    "Tips/16. 外连接退化为内连接.md",
     "消息中间件/RabbitMQ",
     "消息中间件",
     "知识数据库.base",
