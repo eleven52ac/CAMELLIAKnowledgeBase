@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
+                "file": "消息中间件/RabbitMQ/9. 消息转换器.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.  Topic Exchange 模型"
+              "title": "9. 消息转换器"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
+                "file": "消息中间件/RabbitMQ/9. 消息转换器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "8.  Topic Exchange 模型 的大纲"
+              "title": "9. 消息转换器 的大纲"
             }
           },
           {
@@ -181,8 +181,9 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
     "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
+    "消息中间件/RabbitMQ/9. 消息转换器.md",
+    "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
     "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
     "消息中间件/RabbitMQ/4. 工作消息队列.md",
     "SpringBoot/1. Spring @Bean 命名机制.md",
@@ -207,7 +208,6 @@
     "Tips/15. MySQL 小数取舍函数.md",
     "Tips/14. COALESCE.md",
     "Tips/13. MySQL 条件与空值判断函数.md",
-    "Tips/12. DATE_FORMAT日期格式化函数.md",
     "消息中间件/RabbitMQ",
     "消息中间件",
     "知识数据库.base",
