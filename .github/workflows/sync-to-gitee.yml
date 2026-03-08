@@ -1,0 +1,29 @@
+name: Sync GitHub to Gitee
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  create:
+  delete:
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mirror to Gitee
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/eleven52ac
+          dst: gitee/Camelliaxiaohua
+          dst_key: ${{ secrets.GITEE_SSH_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          account_type: user
+          clone_style: ssh
+          debug: true
+          force_update: true
+          static_list: CAMELLIAKnowledgeBase
+          timeout: 600
