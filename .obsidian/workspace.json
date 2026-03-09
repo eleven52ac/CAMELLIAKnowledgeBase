@@ -11,14 +11,14 @@
             "id": "43933755c5f74b07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "消息中间件/Kafka/6. Kafka 底层原理.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
+                "bFile": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "6. Kafka 底层原理"
+              "icon": "diff",
+              "title": "Diff: 6. Fanout Exchange 模型"
             }
           }
         ]
@@ -141,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "消息中间件/Kafka/6. Kafka 底层原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6. Kafka 底层原理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -179,27 +178,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb4e281f3160b2e",
+  "active": "43933755c5f74b07",
   "lastOpenFiles": [
-    "消息中间件/Kafka/5. kafka高级特性.md",
-    "消息中间件/Kafka/4. 可靠性保证.md",
-    "消息中间件/Kafka/3. Spring Kafka 实战.md",
-    "消息中间件/Kafka/2. Kafka 核心架构.md",
-    "消息中间件/Kafka/1. 初识 Kafka.md",
-    "消息中间件/Kafka/6. Kafka 底层原理.md",
-    "消息中间件/RabbitMQ/9. 消息转换器.md",
-    "消息中间件/Kafka",
-    "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
-    "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
+    "未命名.canvas",
+    "2026-03-09.md",
     "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
-    "消息中间件/RabbitMQ/4. 工作消息队列.md",
-    "SpringBoot/1. Spring @Bean 命名机制.md",
-    "Tips/17. 索引的合理设置.md",
-    "SpringBoot",
+    "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
     "消息中间件/RabbitMQ/5. 发布&订阅模型.md",
+    "消息中间件/RabbitMQ/4. 工作消息队列.md",
     "消息中间件/RabbitMQ/3. 基本消息队列.md",
     "消息中间件/RabbitMQ/2. Spring AMQP.md",
     "消息中间件/RabbitMQ/1. 开始RabbitMQ.md",
+    "消息中间件/Kafka/3. Spring Kafka 实战.md",
+    "消息中间件/Kafka/6. Kafka 底层原理.md",
+    "消息中间件/Kafka/5. kafka高级特性.md",
+    "消息中间件/Kafka/4. 可靠性保证.md",
+    "消息中间件/Kafka/2. Kafka 核心架构.md",
+    "消息中间件/Kafka/1. 初识 Kafka.md",
+    "消息中间件/RabbitMQ/9. 消息转换器.md",
+    "消息中间件/Kafka",
+    "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
+    "SpringBoot/1. Spring @Bean 命名机制.md",
+    "Tips/17. 索引的合理设置.md",
+    "SpringBoot",
     "Tips/1. 对象身份哈希码.md",
     "Spring Cloud/1. 配置中心延迟加载导致的 Bean 初始化问题.md",
     "Tips/26. MapStruct 映射框架.md",
@@ -207,13 +208,10 @@
     "Tips/24. return 的实际执行过程.md",
     "Tips/23. 分存元算方案.md",
     "Tips/22. 如何在事务中切换数据源.md",
-    "Tips/21. 契约优先的模块解耦设计.md",
-    "Tips/20. 端到端加密.md",
     "消息中间件/RabbitMQ",
     "消息中间件",
     "知识数据库.base",
     "Pasted image 20260210112912.png",
-    "未命名.canvas",
     "Java/新特性",
     "Java/集合",
     "Java/基础",
