@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "消息中间件/Kafka/6. Kafka 底层原理.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,10 +182,10 @@
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
     "消息中间件/Kafka/5. kafka高级特性.md",
-    "消息中间件/Kafka/1. 初识 Kafka.md",
-    "消息中间件/Kafka/2. Kafka 核心架构.md",
-    "消息中间件/Kafka/3. Spring Kafka 实战.md",
     "消息中间件/Kafka/4. 可靠性保证.md",
+    "消息中间件/Kafka/3. Spring Kafka 实战.md",
+    "消息中间件/Kafka/2. Kafka 核心架构.md",
+    "消息中间件/Kafka/1. 初识 Kafka.md",
     "消息中间件/Kafka/6. Kafka 底层原理.md",
     "消息中间件/RabbitMQ/9. 消息转换器.md",
     "消息中间件/Kafka",
