@@ -11,14 +11,14 @@
             "id": "43933755c5f74b07",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
-                "bFile": "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
-                "aRef": ""
+                "file": "Redis/1. Redis 通用命令.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 6. Fanout Exchange 模型"
+              "icon": "lucide-file",
+              "title": "1. Redis 通用命令"
             }
           }
         ]
@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Redis/1. Redis 通用命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "1. Redis 通用命令 的大纲"
             }
           },
           {
@@ -178,9 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43933755c5f74b07",
+  "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
+    "Redis/2. Redis 字符串（String）相关命令.md",
+    "Redis/8. Redis 中 Sorted Set（有序集合）类型.md",
+    "Redis/1. Redis 通用命令.md",
+    "Redis/3. Redis 中 Key 的层级格式.md",
+    "Redis/4. Redis 哈希（Hash）相关命令.md",
+    "Redis/6. Redis 集合（List）相关命令.md",
+    "Redis/5. Redis 中 Hash 和 String 的区别.md",
+    "Redis/7. Redis Set 相关指令.md",
+    "面试/Java基础/如何保证序列化够稳？.md",
+    "知识数据库.base",
     "未命名.canvas",
+    "消息中间件/Kafka/2. Kafka 核心架构.md",
     "2026-03-09.md",
     "消息中间件/RabbitMQ/6. Fanout Exchange 模型.md",
     "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
@@ -193,24 +205,14 @@
     "消息中间件/Kafka/6. Kafka 底层原理.md",
     "消息中间件/Kafka/5. kafka高级特性.md",
     "消息中间件/Kafka/4. 可靠性保证.md",
-    "消息中间件/Kafka/2. Kafka 核心架构.md",
     "消息中间件/Kafka/1. 初识 Kafka.md",
     "消息中间件/RabbitMQ/9. 消息转换器.md",
     "消息中间件/Kafka",
     "消息中间件/RabbitMQ/8.  Topic Exchange 模型.md",
     "SpringBoot/1. Spring @Bean 命名机制.md",
-    "Tips/17. 索引的合理设置.md",
     "SpringBoot",
-    "Tips/1. 对象身份哈希码.md",
-    "Spring Cloud/1. 配置中心延迟加载导致的 Bean 初始化问题.md",
-    "Tips/26. MapStruct 映射框架.md",
-    "Tips/25. 为什么 MyBatis-Plus 的 saveBatch() 这么慢？.md",
-    "Tips/24. return 的实际执行过程.md",
-    "Tips/23. 分存元算方案.md",
-    "Tips/22. 如何在事务中切换数据源.md",
     "消息中间件/RabbitMQ",
     "消息中间件",
-    "知识数据库.base",
     "Pasted image 20260210112912.png",
     "Java/新特性",
     "Java/集合",
