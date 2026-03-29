@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1596521c7e3ba83c",
+        "id": "a560d130937d08db",
         "type": "tabs",
         "children": [
           {
-            "id": "b31f1e916440f7f2",
+            "id": "e69d9d856b383b4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Tips/5. MyBatis比较符安全写法.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "5. MyBatis比较符安全写法"
-            }
-          },
-          {
-            "id": "7a337c951bbe567a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/1. 基础/1. 数据库概述.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 数据库概述"
-            }
-          },
-          {
-            "id": "464b513cc9cb10f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/1. 基础/1. 数据库概述.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 数据库概述"
-            }
-          },
-          {
-            "id": "4cf573f7db2ff550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/1. 基础/2. DDL语句.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. DDL语句"
-            }
-          },
-          {
-            "id": "d5451126d13e549d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue3/1. Vue3核心知识点.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Vue3核心知识点"
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -237,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb4e281f3160b2e",
+  "active": "e69d9d856b383b4f",
   "lastOpenFiles": [
-    "Tips/1. 对象身份哈希码.md",
     "Vue3/1. Vue3核心知识点.md",
+    "MySQL/1. 基础/2. DDL语句.md",
+    "MySQL/1. 基础/1. 数据库概述.md",
+    "Tips/1. 对象身份哈希码.md",
     "Tips/17. 索引的合理设置.md",
     "Vue3",
     "Tips/16. 外连接退化为内连接.md",
@@ -259,8 +202,6 @@
     "MySQL/2. 事务",
     "MySQL/1. 基础/20. ANY、SOME、ALL 操作符.md",
     "MySQL/1. 基础/19. 子查询.md",
-    "MySQL/1. 基础/1. 数据库概述.md",
-    "MySQL/1. 基础/2. DDL语句.md",
     "数据结构/2. 二叉搜索树（BST）.md",
     "MySQL/1. 基础",
     "MySQL/4. 索引",
