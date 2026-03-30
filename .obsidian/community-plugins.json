@@ -1,5 +1,7 @@
 [
   "highlightr-plugin",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-image-toolkit",
+  "obsidian-plantuml"
 ]
