@@ -179,10 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb4e281f3160b2e",
+  "active": "bdd99d4ef9c1d3d2",
   "lastOpenFiles": [
-    "Python/Python基础/01-基础语法与变量类型.md",
+    "conflict-files-obsidian-git.md",
     "Python/Python基础/02-数据结构.md",
+    "Java/3. 集合/todo/1. Java 中 HashMap 的扩容机制.md",
+    "Java/3. 集合/todo",
+    "Python/Python基础/01-基础语法与变量类型.md",
     "Python/Python基础/03-函数与异常.md",
     "Python/Python基础/04-面向对象.md",
     "Tips/5. MyBatis比较符安全写法.md",
@@ -207,8 +210,6 @@
     "消息中间件/RabbitMQ/1. 开始RabbitMQ.md",
     "Tips/6. foreach标签.md",
     "Java/3. 集合/4. Java HashMap 原理剖析.md",
-    "Java/3. 集合/1. Java 集合框架总览.md",
-    "Java/3. 集合/未命名.md",
     "Java/8. 并发编程/未命名",
     "Java/8. 并发编程/锁机制",
     "Java/8. 并发编程/线程基础",
@@ -216,7 +217,6 @@
     "Redis/6. 底层原理",
     "Redis/5. 可靠性与高可用",
     "Redis/4. 高频业务场景",
-    "Redis/3. SpringBoot 集成",
     "未命名.canvas",
     "Pasted image 20260210112912.png",
     "未命名 1.canvas",

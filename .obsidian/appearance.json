@@ -8,6 +8,6 @@
     "image-local"
   ],
   "interfaceFontFamily": "Georgia,华文中宋",
-  "textFontFamily": "Georgia,华文中宋",
+  "textFontFamily": "Georgia,华文中宋,Noto Serif",
   "monospaceFontFamily": "Consolas"
 }
