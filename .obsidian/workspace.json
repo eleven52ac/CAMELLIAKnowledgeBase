@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/2. 五大数据类型/5. Redis ZSet 有序集合.md",
+                "file": "Python/Python基础/02-数据结构.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Redis ZSet 有序集合"
+              "title": "02-数据结构"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/2. 五大数据类型/5. Redis ZSet 有序集合.md",
+                "file": "Python/Python基础/02-数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5. Redis ZSet 有序集合 的大纲"
+              "title": "02-数据结构 的大纲"
             }
           },
           {
@@ -181,32 +181,34 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "Redis/2. 五大数据类型/4. Redis Set 类型.md",
-    "Redis/2. 五大数据类型/5. Redis ZSet 有序集合.md",
-    "Redis/2. 五大数据类型/3. Redis List 类型.md",
-    "Redis/2. 五大数据类型/2. Redis Hash 类型.md",
-    "Redis/2. 五大数据类型/1. Redis 字符串（String）相关命令.md",
+    "Python/Python基础/01-基础语法与变量类型.md",
+    "Python/Python基础/02-数据结构.md",
+    "Python/Python基础/03-函数与异常.md",
+    "Python/Python基础/04-面向对象.md",
+    "Tips/5. MyBatis比较符安全写法.md",
+    "Python/Python基础/05-模块与虚拟环境.md",
+    "Python/Python基础",
+    "Python",
+    "Tips/4. 字符串函数LEFT.md",
+    "Tips/3. 字符串函数CONCAT.md",
     "Redis/1. 基础入门/3. Redis 中 Key 的层级格式与命名规范.md",
-    "Redis/1. 基础入门/2. Redis 通用命令.md",
-    "Redis/1. 基础入门/1. 初识 Redis.md",
-    "Redis实战篇.md",
-    "Redis/3. SpringBoot 集成/4. 缓存构造策略.md",
-    "Redis/4. 高频业务场景/1. 缓存三大问题.md",
-    "Redis/5. 可靠性与高可用/1. Redis 持久化机制.md",
-    "Redis/5. 可靠性与高可用/2. Redis 主从复制.md",
-    "Redis/3. SpringBoot 集成/1. Spring Data Redis 集成.md",
-    "Redis/3. SpringBoot 集成/2. Redis 序列化方案.md",
     "Redis/3. SpringBoot 集成/3. 缓存注解实战.md",
-    "Redis/4. 高频业务场景/3. 分布式锁（Redisson）.md",
-    "Redis/4. 高频业务场景/2. 布隆过滤器.md",
-    "Redis/4. 高频业务场景/4. Redis 限流.md",
-    "Java/8. 并发编程/线程基础/4. synchronized 与 volatile.md",
-    "Java/8. 并发编程/线程基础/3. 线程生命周期.md",
-    "Java/8. 并发编程/线程基础/2. 创建新线程.md",
-    "Java/8. 并发编程/线程基础/1. 多线程基础.md",
-    "多线程/4. 中断线程.md",
-    "多线程/3. 线程的生命周期.md",
-    "Java/8. 并发编程/锁机制/1. Lock 体系.md",
+    "Redis/3. SpringBoot 集成/1. Spring Data Redis 集成.md",
+    "Spring Cloud/1. 配置中心延迟加载导致的 Bean 初始化问题.md",
+    "Spring Cloud/Gateway/2. 路由断言工厂.md",
+    "Spring Cloud/Gateway/4. 跨域问题.md",
+    "Spring Cloud/Gateway/5. GateWay问题记录.md",
+    "Spring Cloud/Gateway/3. 全局过滤器.md",
+    "Spring Cloud/Gateway/1. 过滤器工厂.md",
+    "消息中间件/Kafka/6. Kafka 底层原理.md",
+    "消息中间件/RabbitMQ/7. Direct Exchange 模型.md",
+    "消息中间件/RabbitMQ/4. 工作消息队列.md",
+    "消息中间件/RabbitMQ/5. 发布&订阅模型.md",
+    "消息中间件/RabbitMQ/1. 开始RabbitMQ.md",
+    "Tips/6. foreach标签.md",
+    "Java/3. 集合/4. Java HashMap 原理剖析.md",
+    "Java/3. 集合/1. Java 集合框架总览.md",
+    "Java/3. 集合/未命名.md",
     "Java/8. 并发编程/未命名",
     "Java/8. 并发编程/锁机制",
     "Java/8. 并发编程/线程基础",
@@ -215,8 +217,6 @@
     "Redis/5. 可靠性与高可用",
     "Redis/4. 高频业务场景",
     "Redis/3. SpringBoot 集成",
-    "Redis/2. 五大数据类型",
-    "Redis/1. 基础入门",
     "未命名.canvas",
     "Pasted image 20260210112912.png",
     "未命名 1.canvas",
