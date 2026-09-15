@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "406685ef08e8600d",
+        "id": "64f404b5ac4cf610",
         "type": "tabs",
         "children": [
           {
-            "id": "e0729417f43d35a6",
+            "id": "ee8162bc4ffaf829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Tips/20. 端到端加密.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "20. 端到端加密"
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -41,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -170,7 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -182,43 +183,43 @@
   },
   "active": "8bfb1b0e9e875709",
   "lastOpenFiles": [
-    "流程流引擎/Flowable",
-    "流程流引擎",
-    "Tips/4. 字符串函数LEFT.md",
+    "AI应用开发/Python基础语法",
+    "AI应用开发",
+    "未命名.base",
+    "未命名 1.base",
+    "conflict-files-obsidian-git.md",
     "Tips/20. 端到端加密.md",
+    "源码/ThreadPoolExecutor源码阅读.md.md",
+    "Java/8. 并发编程/线程基础/3. 线程生命周期.md",
+    "源码",
+    "Java/8. 并发编程/线程基础/4. synchronized 与 volatile.md",
+    "Java/8. 并发编程/线程基础/11. JMM 内存模型与 happens-before 规则.md",
+    "Java/8. 并发编程/线程基础/2. 创建新线程.md",
+    "Java/8. 并发编程/线程基础/1. 多线程基础.md",
+    "Redis/3. SpringBoot 集成/4. 缓存构造策略.md",
+    "Python/Python基础/05-模块与虚拟环境.md",
+    "Python/Python基础/04-面向对象.md",
+    "Python/Python基础/03-函数与异常.md",
+    "Python/Python基础/02-数据结构.md",
+    "Python/Python基础/01-基础语法与变量类型.md",
+    "Python/Python基础",
+    "Python",
+    "Java/8. 并发编程/锁机制/1. Lock 体系.md",
+    "Java/8. 并发编程/锁机制",
+    "Java/8. 并发编程/线程基础",
+    "Java/8. 并发编程",
+    "Java/3. 集合/todo/1. Java 中 HashMap 的扩容机制.md",
+    "Java/3. 集合/todo",
+    "Java/3. 集合/4. Java HashMap 原理剖析.md",
+    "Java/3. 集合/1. Java 集合框架总览.md",
+    "Tips/4. 字符串函数LEFT.md",
     "Tips/端到端加密.md",
     "Tips/19. Payment Intent Pattern（支付意图模式）.md",
     "Tips/3. 字符串函数CONCAT.md",
     "Tips/1. 对象身份哈希码.md",
     "Tips/18. Commit Message 规范.md",
     "Tips/17. 索引的合理设置.md",
-    "Tips/16. 外连接退化为内连接.md",
-    "Tips/15. MySQL 小数取舍函数.md",
-    "Tips/14. COALESCE.md",
-    "Tips/13. MySQL 条件与空值判断函数.md",
-    "Spring Cloud/1. 配置中心延迟加载导致的 Bean 初始化问题.md",
-    "MySQL/9. DCL语句.md",
-    "MySQL/8. 外连接.md",
-    "MySQL/7. 内连接.md",
-    "MySQL/6. 连接查询.md",
-    "MySQL/5. 分组查询.md",
-    "MySQL/4. 聚合函数.md",
-    "MySQL/3. DML语句.md",
-    "MySQL/2. DDL语句.md",
-    "MySQL/13. 流程控制函数.md",
-    "MySQL/12. 日期函数.md",
-    "MySQL/11. 数字函数.md",
-    "MySQL/10. 字符串函数.md",
-    "MySQL",
     "Pasted image 20250911145623.png",
-    "代码块",
-    "未命名.base",
-    "知识数据库.base",
-    "面试/MySQL",
-    "未命名 1.base",
-    "未命名 2.base",
-    "Tips",
-    "TipS",
     "未命名 1.canvas",
     "未命名.canvas",
     "guide/cover.jpeg"
