@@ -11,16 +11,32 @@
             "id": "ee8162bc4ffaf829",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "MySQL/MySQL 数据排序实现原理.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "MySQL 数据排序实现原理"
+            }
+          },
+          {
+            "id": "05998883abacbda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI应用开发/基础/2. AI Agent 基础.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. AI Agent 基础"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips/20. 端到端加密.md",
+                "file": "AI应用开发/基础/2. AI Agent 基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20. 端到端加密 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -181,12 +197,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bfb1b0e9e875709",
+  "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "AI应用开发/Python基础语法",
-    "AI应用开发",
+    "AI应用开发/基础/1. 大语言模型基础.md",
+    "AI应用开发/基础/2. AI Agent 基础.md",
+    "MySQL/1. 基础/3. DML语句.md",
+    "AGENTS.md",
+    "AI应用开发/README.md",
+    "AI应用开发/Transformer/1. Attention Is All You Need.md",
+    "AI应用开发/Transformer",
+    "AI应用开发/基础",
+    "MySQL/1. 基础/1. 数据库概述.md",
+    "MySQL/2. 事务/1. 事务.md",
+    "未命名 2.base",
     "未命名.base",
     "未命名 1.base",
+    "AI应用开发/Transformer/Python基础语法",
+    "AI应用开发",
     "conflict-files-obsidian-git.md",
     "Tips/20. 端到端加密.md",
     "源码/ThreadPoolExecutor源码阅读.md.md",
@@ -205,20 +232,9 @@
     "Python/Python基础",
     "Python",
     "Java/8. 并发编程/锁机制/1. Lock 体系.md",
-    "Java/8. 并发编程/锁机制",
-    "Java/8. 并发编程/线程基础",
-    "Java/8. 并发编程",
     "Java/3. 集合/todo/1. Java 中 HashMap 的扩容机制.md",
-    "Java/3. 集合/todo",
     "Java/3. 集合/4. Java HashMap 原理剖析.md",
     "Java/3. 集合/1. Java 集合框架总览.md",
-    "Tips/4. 字符串函数LEFT.md",
-    "Tips/端到端加密.md",
-    "Tips/19. Payment Intent Pattern（支付意图模式）.md",
-    "Tips/3. 字符串函数CONCAT.md",
-    "Tips/1. 对象身份哈希码.md",
-    "Tips/18. Commit Message 规范.md",
-    "Tips/17. 索引的合理设置.md",
     "Pasted image 20250911145623.png",
     "未命名 1.canvas",
     "未命名.canvas",
