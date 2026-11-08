@@ -15,6 +15,15 @@ tags:
 1. [大语言模型基础](<基础/1. 大语言模型基础.md>)：LLM、Token、上下文窗口、采样参数、Prompt、结构化输出和工具调用。
 2. [AI Agent 基础](<基础/2. AI Agent 基础.md>)：Agent Loop、ReAct、规划、工作流、上下文、记忆、MCP、Skills 与工程化。
 
+## 大模型基础
+
+- [LLM 运行机制](<大模型基础/1. LLM 运行机制.md>)：用客户反馈分类的例子，理解模型怎样回答、Token 和上下文、常见参数、流式输出与调用费用。知识库主稿，尚未同步到博客。
+- [结构化输出与工具调用](<大模型基础/2. 结构化输出与工具调用.md>)：用课程学习助手理解 JSON、Schema、字段校验，以及模型提出调用、程序执行查询的完整过程。知识库主稿，尚未同步到博客。
+
+## AI Agent
+
+- [提示词工程（Prompt Engineering）](<AI Agent/1. 提示词工程.md>)：用图书馆借阅助手学习怎么写 Prompt、处理资料不足、用样例检查效果，以及区分提示词与上下文工程。知识库主稿，尚未同步到博客。
+
 ## Transformer
 
 - [Attention Is All You Need：Transformer 开山之作](<Transformer/1. Attention Is All You Need.md>)：原始论文、注意力机制与 Transformer 架构。

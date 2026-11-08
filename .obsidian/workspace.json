@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI应用开发/基础/2. AI Agent 基础.md",
+                "file": "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. AI Agent 基础"
+              "title": "2. 结构化输出与工具调用"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI应用开发/基础/2. AI Agent 基础.md",
+                "file": "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +199,13 @@
   },
   "active": "0bb4e281f3160b2e",
   "lastOpenFiles": [
-    "AI应用开发/基础/1. 大语言模型基础.md",
+    "AI应用开发/AI Agent/1. 提示词工程.md",
+    "AI应用开发/AI Agent",
+    "AI应用开发/大模型基础/1. LLM 运行机制.md",
+    "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
     "AI应用开发/基础/2. AI Agent 基础.md",
+    "AI应用开发/大模型基础",
+    "AI应用开发/基础/1. 大语言模型基础.md",
     "MySQL/1. 基础/3. DML语句.md",
     "AGENTS.md",
     "AI应用开发/README.md",
@@ -229,12 +234,7 @@
     "Python/Python基础/03-函数与异常.md",
     "Python/Python基础/02-数据结构.md",
     "Python/Python基础/01-基础语法与变量类型.md",
-    "Python/Python基础",
-    "Python",
     "Java/8. 并发编程/锁机制/1. Lock 体系.md",
-    "Java/3. 集合/todo/1. Java 中 HashMap 的扩容机制.md",
-    "Java/3. 集合/4. Java HashMap 原理剖析.md",
-    "Java/3. 集合/1. Java 集合框架总览.md",
     "Pasted image 20250911145623.png",
     "未命名 1.canvas",
     "未命名.canvas",
