@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
+                "file": "设计模式/创建型模式/1. 工厂方法模式.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 结构化输出与工具调用"
+              "title": "1. 工厂方法模式"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
+                "file": "设计模式/创建型模式/1. 工厂方法模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,33 +197,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb4e281f3160b2e",
+  "active": "05998883abacbda3",
   "lastOpenFiles": [
+    "Redis实战篇.md",
+    "设计模式/创建型模式/1. 工厂方法模式.md",
+    "设计模式/README.md",
+    "设计模式/创建型模式",
+    "设计模式",
+    "AGENTS.md",
+    "知识数据库.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
     "AI应用开发/AI Agent/1. 提示词工程.md",
     "AI应用开发/AI Agent",
     "AI应用开发/大模型基础/1. LLM 运行机制.md",
-    "AI应用开发/大模型基础/2. 结构化输出与工具调用.md",
     "AI应用开发/基础/2. AI Agent 基础.md",
     "AI应用开发/大模型基础",
     "AI应用开发/基础/1. 大语言模型基础.md",
     "MySQL/1. 基础/3. DML语句.md",
-    "AGENTS.md",
     "AI应用开发/README.md",
     "AI应用开发/Transformer/1. Attention Is All You Need.md",
     "AI应用开发/Transformer",
     "AI应用开发/基础",
     "MySQL/1. 基础/1. 数据库概述.md",
     "MySQL/2. 事务/1. 事务.md",
-    "未命名 2.base",
-    "未命名.base",
-    "未命名 1.base",
-    "AI应用开发/Transformer/Python基础语法",
-    "AI应用开发",
     "conflict-files-obsidian-git.md",
     "Tips/20. 端到端加密.md",
     "源码/ThreadPoolExecutor源码阅读.md.md",
     "Java/8. 并发编程/线程基础/3. 线程生命周期.md",
-    "源码",
     "Java/8. 并发编程/线程基础/4. synchronized 与 volatile.md",
     "Java/8. 并发编程/线程基础/11. JMM 内存模型与 happens-before 规则.md",
     "Java/8. 并发编程/线程基础/2. 创建新线程.md",
@@ -232,9 +235,6 @@
     "Python/Python基础/05-模块与虚拟环境.md",
     "Python/Python基础/04-面向对象.md",
     "Python/Python基础/03-函数与异常.md",
-    "Python/Python基础/02-数据结构.md",
-    "Python/Python基础/01-基础语法与变量类型.md",
-    "Java/8. 并发编程/锁机制/1. Lock 体系.md",
     "Pasted image 20250911145623.png",
     "未命名 1.canvas",
     "未命名.canvas",
